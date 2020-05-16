@@ -1,0 +1,6 @@
+FLL可以选择系统内部32KHz和外部CLK作为CLK源
+FLL范围32MHz-40
+如果FLL为40 必须ics2的BDIV设为0
+
+定时器：
+5
